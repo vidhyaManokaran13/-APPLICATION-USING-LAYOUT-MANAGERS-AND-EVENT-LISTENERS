@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Details Form</string>
+    <string-array name="departments_array">
+        <item>MCA</item>
+        <item>CSE</item>
+        <item>EEE</item>
+        <item>IT</item>
+    </string-array>
+</resources>
